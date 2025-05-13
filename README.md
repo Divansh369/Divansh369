@@ -36,7 +36,7 @@ I'm an active owner, developer, and contributor to **Fiore**, an organization an
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Personal%20Computer.png" alt="Personal Computer" width="25" height="25" /> Featured Personal Projects
+ ## Featured Personal Projects
 
 Here are a couple of projects I'm particularly proud of:
 
@@ -60,7 +60,7 @@ Here are a couple of projects I'm particularly proud of:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" alt="Rocket" width="25" height="25" /> My Tech Stack & Current Explorations
+## My Tech Stack & Current Explorations
 
 I enjoy working with a variety of tools and technologies. Here's a glimpse:
 
@@ -96,7 +96,7 @@ I enjoy working with a variety of tools and technologies. Here's a glimpse:
   </picture>
 </div>
 
-<h3 align="left"><img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Compass.png](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Compass.png?raw=true)" alt="Compass" width="25" height="25" /> Currently Exploring:</h3>
+<h3 align="left"> Currently Exploring:</h3>
 <ul>
   <li>Deepening my expertise in full-stack web architectures.</li>
   <li>Advanced JavaScript patterns and frontend frameworks (e.g., Next.js, Svelte).</li>
