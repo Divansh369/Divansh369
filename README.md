@@ -41,14 +41,17 @@ I'm an active owner, developer, and contributor to **Fiore**, an organization an
 Here are a couple of projects I'm particularly proud of:
 
 <p align="center">
-  <a href="https://github.com/Divansh369/CanvasCraft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divansh369&repo=CanvasCraft&theme=nightowl&bg_color=0d1117&title_color=c56a90&text_color=ffffff&icon_color=c56a90" alt="CanvasCraft Project"/>
+  <a href="https://github.com/Divansh369/Cynthia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divansh369&repo=Cynthia&theme=nightowl&bg_color=0d1117&title_color=c56a90&text_color=ffffff&icon_color=c56a90" alt="CanvasCraft Project"/>
   </a>
-  <a href="https://github.com/Divansh369/Doodo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divansh369&repo=Doodo&theme=nightowl&bg_color=0d1117&title_color=c56a90&text_color=ffffff&icon_color=c56a90" alt="Doodo Project"/>
+  <a href="https://github.com/Divansh369/SixSortAlgoCUDA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divansh369&repo=SixSortAlgoCUDA&theme=nightowl&bg_color=0d1117&title_color=c56a90&text_color=ffffff&icon_color=c56a90" alt="Code Editor Project"/>
   </a>
-  <a href="https://github.com/Divansh369/Code-Editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divansh369&repo=Code-Editor&theme=nightowl&bg_color=0d1117&title_color=c56a90&text_color=ffffff&icon_color=c56a90" alt="Code Editor Project"/>
+   <a href="https://github.com/Divansh369/homepage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divansh369&repo=homepage&theme=nightowl&bg_color=0d1117&title_color=c56a90&text_color=ffffff&icon_color=c56a90" alt="Code Editor Project"/>
+  </a>
+  <a href="https://github.com/Divansh369/Hangman">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divansh369&repo=Hangman&theme=nightowl&bg_color=0d1117&title_color=c56a90&text_color=ffffff&icon_color=c56a90" alt="Doodo Project"/>
   </a>
 </p>
 <p align="center">
